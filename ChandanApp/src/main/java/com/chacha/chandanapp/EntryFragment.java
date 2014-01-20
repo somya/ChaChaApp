@@ -29,7 +29,7 @@ public class EntryFragment extends Fragment
 	public View onCreateView(
 		LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
 	{
-		View rootView = inflater.inflate(R.layout.fragment_main, container, false);
+		View rootView = inflater.inflate(R.layout.fragment_entry, container, false);
 		return rootView;
 	}
 

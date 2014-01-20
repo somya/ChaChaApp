@@ -34,13 +34,12 @@
 
     <Button
             android:id="@+id/btn_action"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:text="GO!"
-            android:background="#ff0000"
+            android:background="@drawable/round_button_background"
             android:layout_below="@+id/txt_name"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
+            android:layout_centerInParent="true"
             android:layout_marginTop="50dp"/>
 
 
